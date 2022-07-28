@@ -1,0 +1,1 @@
+#include "FbxStaticMeshAfter.hlsli"

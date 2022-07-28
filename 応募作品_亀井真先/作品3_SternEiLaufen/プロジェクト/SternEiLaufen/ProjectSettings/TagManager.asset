@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Wall
+  - Ground
+  - Enemy
+  - InvincibleEnemy
+  - Fade
+  - SeeThroughFloor
+  - GroundBonus
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackMax
+    uniqueID: 1046349687
+    locked: 0
+  - name: Back
+    uniqueID: 1910793449
+    locked: 0
+  - name: Speed Efect
+    uniqueID: 2163202393
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SeeThroughGround
+    uniqueID: 1366970685
+    locked: 0

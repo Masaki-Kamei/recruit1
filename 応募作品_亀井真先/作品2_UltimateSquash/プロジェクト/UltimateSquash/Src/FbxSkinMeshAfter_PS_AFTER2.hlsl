@@ -1,0 +1,1 @@
+#include "FbxSkinMeshAfter.hlsli"
